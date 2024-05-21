@@ -1,0 +1,11 @@
+aws_region = "<region>" # Specify your desired AWS region
+user_pool_name = "<cognito_user_pool_name>" # Specify your desired Cognito user pool name
+allow_admin_create_user_only = false # # Set whether only administrators can create users
+minimum_password_length = 8 # Specify the minimum password length required
+require_lowercase = true # Set whether the password requires lowercase characters
+require_uppercase = true # Set whether the password requires uppercase characters
+require_numbers = true # Set whether the password requires numbers
+require_symbols = false # Set whether the password requires symbols
+username = "<cognito_username>" # Specify the desired cognito username
+email = "<cognito_user_email>" # Specify the desired cognito user email
+password = "<temporary_password>" # Specify the desired cognito user password

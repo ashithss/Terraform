@@ -1,0 +1,1 @@
+servicebus_name = demosbnamespace

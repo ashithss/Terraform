@@ -15,13 +15,13 @@ yum install terraform
 1. Clone this repository to your local machine:
 
 ```bash
-git clone http://10.16.1.53/devops/devops-templates.git
+git clone https://github.com/ashithss/Terraform.git
 ``` 
 
 2. Navigate to the `ec2_loadbalancer` directory:
 
 ```bash
-cd devops-templates/ec2_loadbalancer
+cd Terraform/ec2_loadbalancer
 ```
 
 3. Create a `variables.tf` file with the required variables. For example:

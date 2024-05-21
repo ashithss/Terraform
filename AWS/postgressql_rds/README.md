@@ -23,7 +23,7 @@ yum install terraform
 
  ```bash
 
-git clone http://10.16.1.53/devops/devops-templates.git
+git clone https://github.com/ashithss/Terraform.git
 
 ```
 
@@ -31,7 +31,7 @@ git clone http://10.16.1.53/devops/devops-templates.git
 
  ```bash
 
-cd devops-templates/postgressql_rds
+cd Terraform/postgressql_rds
 
 ```
 

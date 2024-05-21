@@ -41,13 +41,13 @@ terraform version
 1. Clone this repository to your local machine:
 
 ```bash
-git clone http://10.16.1.53/devops/devops-templates.git
+git clone https://github.com/ashithss/Terraform.git
 ```
 
 2. Navigate to the `azure-cosmos` directory:
 
 ```bash
-cd devops-templates/azure-cosmos
+cd Terraform/azure-cosmos
 ```
 
 3. Review and customize the `variables.tf` file to adjust any default values or add new variables as needed.

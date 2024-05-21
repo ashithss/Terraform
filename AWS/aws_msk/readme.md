@@ -131,7 +131,7 @@ ssh-keygen -t rsa -b 4096 -C "your@example.com"
 
 **1. Clone this repository to your local machine:**
 ```bash
-git clone http://10.16.1.53/devops/devops-templates.git
+git clone https://github.com/ashithss/Terraform.git
 
 ```
 
@@ -139,7 +139,7 @@ git clone http://10.16.1.53/devops/devops-templates.git
 
 **2. Navigate to the `aws-msk` directory:**
 ```bash
-cd devops-templates/AWS/aws-msk
+cd Terraform/AWS/aws-msk
 
 ``` 
 **3. Initialize the Terraform configuration:**

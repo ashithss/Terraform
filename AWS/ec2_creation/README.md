@@ -18,14 +18,14 @@ yum install terraform
 
  
 ```bash
-git clone http://10.16.1.53/devops/devops-templates.git
+git clone https://github.com/ashithss/Terraform.git
 ```
 
 2. Navigate to the `ec2_creation` directory:
 
  
 ```bash
-cd devops-templates/ec2_creation
+cd Terraform/ec2_creation
 ```
 
 3. Create a `variables.tf` file with the required variables. For example:

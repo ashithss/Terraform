@@ -25,7 +25,7 @@ yum install terraform
 
 ```bash
 
-git clone http://10.16.1.53/devops/devops-templates.git
+git clone https://github.com/ashithss/Terraform.git
 
 ``` 
 
@@ -34,7 +34,7 @@ git clone http://10.16.1.53/devops/devops-templates.git
 
 ```bash
 
-cd devops-templates/elastic_cache_for_redis
+cd Terraform/elastic_cache_for_redis
 
 
 ```

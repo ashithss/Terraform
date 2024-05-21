@@ -19,13 +19,13 @@ yum install terraform
 
 
 ```bash
-git clone http://10.16.1.53/devops/devops-templates.git
+git clone https://github.com/ashithss/Terraform.git
 ```
 
 2. Navigate to the `eC2_loadbalancer_autoscaling` directory:
 
 ```bash
-cd devops-templates/eC2_loadbalancer_autoscaling
+cd Terraform/eC2_loadbalancer_autoscaling
 ```
 
 

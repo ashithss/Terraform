@@ -94,13 +94,13 @@ ssh-keygen -t rsa -b 4096 -C "your@example.com"
 **1. Clone this repository to your local machine:**
 
 ```bash
-git clone http://10.16.1.53/devops/devops-templates.git
+git clone https://github.com/ashithss/Terraform.git
 ```
 
 **2. Navigate to the `ecs` directory:**
 
 ```bash
-cd devops-templates/AWS/ecs
+cd Terraform/AWS/ecs
 ```
 
 **3. Update `variables.tf` file with the required variables. Below is our `variables.tf` file:**

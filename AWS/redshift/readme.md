@@ -141,7 +141,7 @@ ssh-keygen -t rsa -b 4096 -C "your@example.com"
 
 **1. Clone this repository to your local machine:**
 ```bash
-git clone http://10.16.1.53/devops/devops-templates.git
+git clone https://github.com/ashithss/Terraform.git
 
 ```
 
@@ -149,7 +149,7 @@ git clone http://10.16.1.53/devops/devops-templates.git
 
 **2. Navigate to the `RedShift` directory:**
 ```bash
-cd devops-templates/AWS/RedShift
+cd Terraform/AWS/RedShift
 
 ```
 **3. Update `terraform.tfvars` file with the required variables. Below is our terraform.tfvars file:**

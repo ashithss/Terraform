@@ -41,13 +41,13 @@ terraform version
 1. Clone this repository to your local machine:
 
 ```bash
-git clone http://10.16.1.53/devops/devops-templates.git
+git clone https://github.com/ashithss/Terraform.git
 ```
 
 2. Navigate to the `azure-ad` directory:
 
 ```bash
-cd devops-templates/azure-ad
+cd Terraform/azure-ad
 ```
 
 

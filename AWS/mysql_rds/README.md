@@ -16,14 +16,14 @@ yum install terraform
 
 
 ```bash
-git clone http://10.16.1.53/devops/devops-templates.git
+git clone https://github.com/ashithss/Terraform.git
 ```
  
 2. Navigate to the `mysql_rds` directory:
  
 
 ```bash
-cd devops-templates/mysql_rds
+cd Terraform/mysql_rds
 ```
  
 

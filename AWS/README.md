@@ -43,7 +43,7 @@
 
 # Directory Structure
 
-
+```bash
 ├── api_gateway_lamba_functions
 │   ├── lambda_function.zip
 │   ├── main.tf
@@ -338,3 +338,5 @@
     └── variables.tf
 
 57 directories, 236 files
+
+```
